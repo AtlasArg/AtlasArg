@@ -1,4 +1,4 @@
-## Hi there,  I'm Gaston, a game developer with more of 14 years working on software. 👋
+## Hi there,  I'm Gaston, a generalist game developer with more of fourteen years working on software. 👋
 
 <!--
 **AtlasArg/AtlasArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
